@@ -1,0 +1,10 @@
+[app1]
+
+Database = OUR_FIRST_DATABASE
+schema = PUBLIC
+
+ 
+[app2] 
+Database = INGEST_DATA
+schema = PUBLIC
+
